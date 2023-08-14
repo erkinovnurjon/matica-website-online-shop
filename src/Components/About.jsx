@@ -4,7 +4,7 @@ const About = () => {
      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4">
   <div className="flex flex-col sm:flex-row justify-between items-center">
     <div className="w-full sm:w-1/2">
-      <img className="w-[400px]" src="https://i.pinimg.com/736x/60/92/54/60925416cb199cf75baf1217b95d793b.jpg" alt="" />
+      <img className="w-[400px]" src="https://i.pinimg.com/736x/60/92/54/60925416cb199cf75baf1217b95d793b.jpg" alt="logo header" />
     </div>
     <div className="w-full sm:w-1/2 pt-10 sm:pt-0">
       <h1 className="text-4xl sm:text-6xl font-medium">Enabling individuals to securely access online services</h1>
